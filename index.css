@@ -1,0 +1,150 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  body {
+    background-color: rgb(222, 221, 221);
+  }
+  .container {
+    background-color: white;
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 30px;
+    margin-bottom: 40px;
+  }
+  .nav {
+    text-align: center;
+    line-height: 23px;
+    margin-bottom: 30px;
+  }
+  .nav h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+    color: rgb(80, 80, 143);
+    font-weight: bold;
+  }
+  .nav p {
+    font-size: 18px;
+  }
+  .nav p a {
+    text-decoration: underline;
+    color: rgb(109, 109, 205);
+  }
+  .statement {
+    margin-bottom: 30px;
+  }
+  .statement h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    background-color: rgb(212, 211, 211);
+    padding: 5px;
+    margin-bottom: 10px;
+    color: rgb(80, 80, 143);
+  }
+  .education {
+    margin-bottom: 30px;
+  }
+  .education h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    background-color: rgb(212, 211, 211);
+    padding: 5px;
+    margin-bottom: 10px;
+    color: rgb(80, 80, 143);
+  }
+  .education .paralel {
+    display: flex;
+    justify-content: space-between;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+  }
+  .education .paralel p {
+    margin-top: 3px;
+    font-weight: bold;
+  }
+  .education #advanced {
+    margin-top: 10px;
+  }
+  
+  .experience {
+    margin-bottom: 30px;
+  }
+  .experience h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    background-color: rgb(212, 211, 211);
+    padding: 5px;
+    margin-bottom: 10px;
+    color: rgb(80, 80, 143);
+  }
+  .experience h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    padding: 5px;
+    margin-bottom: 4px;
+  }
+  .experience .paralel {
+    display: flex;
+    justify-content: space-between;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+  }
+  .experience .paralel p {
+    font-size: 13px;
+    margin-bottom: 9px;
+  }
+  .experience .paralel p span {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+  }
+  .experience ul li {
+    margin-left: 60px;
+  }
+  
+  .skills {
+    margin-bottom: 30px;
+  }
+  .skills h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    background-color: rgb(212, 211, 211);
+    padding: 5px;
+    margin-bottom: 10px;
+    color: rgb(80, 80, 143);
+  }
+  .skills ul li {
+    margin-left: 20px;
+  }
+  
+  .tool {
+    margin-bottom: 30px;
+  }
+  .tool h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    background-color: rgb(212, 211, 211);
+    padding: 5px;
+    margin-bottom: 10px;
+    color: rgb(80, 80, 143);
+  }
+  .tool ul li {
+    margin-left: 20px;
+  }
+  
+  .languages {
+    margin-bottom: 30px;
+  }
+  .languages h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    background-color: rgb(212, 211, 211);
+    padding: 5px;
+    margin-bottom: 10px;
+    color: rgb(80, 80, 143);
+  }
+  .languages ul li {
+    margin-left: 20px;
+  }
